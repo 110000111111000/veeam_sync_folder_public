@@ -52,7 +52,7 @@ def sync_folders(source, replica):
                 logging.info(f"Deleted file: {replica_item}")
 
 def main():
-    parser = argparse.ArgumentParser(description="Synchronize two folders.")
+    parser = argparse.ArgumentParser(description="Synchronize two foldersnemidonam")
     parser.add_argument('source', type=str, help='Path to the source folder: Exp: "/Users/baharspring/veeam"')
     parser.add_argument('replica', type=str, help='Path to the replica folder, Exp: "/Users/baharspring/veeam"')
     parser.add_argument('interval', type=int, help='Synchronization interval in seconds')
