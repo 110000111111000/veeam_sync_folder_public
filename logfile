@@ -1,0 +1,4 @@
+2024-07-04 17:47:48,240 - INFO - Starting synchronization: source=/Users/baharspring/veeam/directory1, replica=/Users/baharspring/veeam/replica, interval=20s
+2024-07-04 17:47:48,241 - INFO - Created directory: /Users/baharspring/veeam/replica
+2024-07-04 17:47:48,242 - INFO - Created directory: /Users/baharspring/veeam/replica/subdirectory11
+2024-07-04 17:47:48,243 - INFO - Copied: /Users/baharspring/veeam/directory1/subdirectory11/test11.txt to /Users/baharspring/veeam/replica/subdirectory11/test11.txt
