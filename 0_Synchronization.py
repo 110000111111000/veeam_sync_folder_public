@@ -1,5 +1,6 @@
 import os
 import shutil
+import hashlib
 #import logging
 #import argparse
 #import time
@@ -65,7 +66,8 @@ def get_structure_folder(directory):
 
         return None
 
-    return sub_dirs   
+    return sub_dirs
+
 
 def synchronize_directories(source, replica):
     try:
@@ -92,6 +94,12 @@ def synchronize_directories(source, replica):
             replica_status = f'The replica folder "{replica}" exists.'
             replica_size = get_directory_size(replica)
             replica_structure = get_structure_folder(replica)
+            if replica_size == source_size:
+                print("replica size is the same as source_size ")
+                if replica_structure == source_structure:
+                    print("source and replica has the same structure")
+            else:
+                print("replica size is not the same as source_size")    
 
 		# Print the status messages
         print(working_directory_status)
