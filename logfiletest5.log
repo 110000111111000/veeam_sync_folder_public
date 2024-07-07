@@ -1,0 +1,6 @@
+Mon Jul  8 00:14:20 2024 - Created directory: /Users/baharspring/veeam/replica/.
+Mon Jul  8 00:14:20 2024 - Created directory: /Users/baharspring/veeam/replica/subdirectory11
+Mon Jul  8 00:14:20 2024 - Copied file: /Users/baharspring/veeam/source/subdirectory11/test11.txt to /Users/baharspring/veeam/replica/subdirectory11/test11.txt
+Mon Jul  8 00:14:20 2024 - Created directory: /Users/baharspring/veeam/replica/file0
+Mon Jul  8 00:14:50 2024 - Removed directory: /Users/baharspring/veeam/replica/ooooo
+Mon Jul  8 00:17:20 2024 - Removed directory: /Users/baharspring/veeam/replica

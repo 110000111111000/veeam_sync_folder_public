@@ -1,0 +1,4 @@
+2024-07-07 23:16:43.680803 - Created directory: /Users/baharspring/veeam/replica/.
+2024-07-07 23:16:43.681422 - Created directory: /Users/baharspring/veeam/replica/subdirectory11
+2024-07-07 23:16:43.682971 - Copied file: /Users/baharspring/veeam/source/subdirectory11/test11.txt to /Users/baharspring/veeam/replica/subdirectory11/test11.txt
+2024-07-07 23:17:43.705843 - Removed directory: /Users/baharspring/veeam/replica/nemidonam
