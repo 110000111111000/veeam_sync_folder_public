@@ -10,6 +10,21 @@ import hashlib
 source = "/Users/baharspring/veeam/source"
 replica = "/Users/baharspring/veeam/replica"
 
+def get_stat_folders(directory):
+    stat_folder = os.stat(directory)
+    """
+    Retrieve stat information (metadata) of a directory.
+
+    Args:
+    - directory (str): Path to the directory.
+
+    Returns:
+    - stat_folder (os.stat_result object): Object containing metadata of the directory.
+    """
+    return stat_folder
+print(get_stat_folders(source))
+
+
 ## Function to estimate the size of folders
 def get_directory_size(directory):
 	"""
@@ -69,6 +84,9 @@ def get_structure_folder(directory):
     return sub_dirs
 
 
+
+
+
 def synchronize_directories(source, replica):
     try:
         working_directory = os.getcwd()
@@ -87,6 +105,7 @@ def synchronize_directories(source, replica):
 		# Check if the replica folder exists and create it if it doesn't	
         if not os.path.exists(replica):
             replica_status = f'The replica folder "{replica}" does not exist, so it has been created.'
+            replica_size = None
             shutil.copytree(source, replica)
             print(f"Directory '{source}' has been successfully copied to '{replica}'.")
             #os.makedirs(replica)
