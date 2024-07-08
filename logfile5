@@ -1,0 +1,222 @@
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/test5.py to /Users/baharspring/veeam/replica/./test5.py
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/logfile5 to /Users/baharspring/veeam/replica/./logfile5
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/os_walk_func_unitest.py to /Users/baharspring/veeam/replica/./os_walk_func_unitest.py
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/log to /Users/baharspring/veeam/replica/./log
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/test5.py to /Users/baharspring/veeam/replica/replica/test5.py
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/logfile5 to /Users/baharspring/veeam/replica/replica/logfile5
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/os_walk_func_unitest.py to /Users/baharspring/veeam/replica/replica/os_walk_func_unitest.py
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/log to /Users/baharspring/veeam/replica/replica/log
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/replica
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/replica/0_os_stat_test.py to /Users/baharspring/veeam/replica/replica/replica/0_os_stat_test.py
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/replica/logfiletest5.log to /Users/baharspring/veeam/replica/replica/replica/logfiletest5.log
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/replica/save_piece.py to /Users/baharspring/veeam/replica/replica/replica/save_piece.py
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/replica/1_filecmp_lib_test.py to /Users/baharspring/veeam/replica/replica/replica/1_filecmp_lib_test.py
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/replica/logfiletest1.log to /Users/baharspring/veeam/replica/replica/replica/logfiletest1.log
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/replica/0_Synchronization.py to /Users/baharspring/veeam/replica/replica/replica/0_Synchronization.py
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/replica/test4.py to /Users/baharspring/veeam/replica/replica/replica/test4.py
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/replica/get_structure_folder.py to /Users/baharspring/veeam/replica/replica/replica/get_structure_folder.py
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/replica/make_exact_direc.py to /Users/baharspring/veeam/replica/replica/replica/make_exact_direc.py
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/replica/logfiletest0 to /Users/baharspring/veeam/replica/replica/replica/logfiletest0
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/replica/test0.py to /Users/baharspring/veeam/replica/replica/replica/test0.py
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/replica/filecmp_lib_test.py to /Users/baharspring/veeam/replica/replica/replica/filecmp_lib_test.py
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/replica/test1.py to /Users/baharspring/veeam/replica/replica/replica/test1.py
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/replica/Bachelorarbeit.pdf to /Users/baharspring/veeam/replica/replica/replica/Bachelorarbeit.pdf
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/replica/test5.py to /Users/baharspring/veeam/replica/replica/replica/test5.py
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/replica/test.py to /Users/baharspring/veeam/replica/replica/replica/test.py
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/replica/log_0_Synchronization.py to /Users/baharspring/veeam/replica/replica/replica/log_0_Synchronization.py
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/replica/logfile5 to /Users/baharspring/veeam/replica/replica/replica/logfile5
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/replica/M0-argparse.py to /Users/baharspring/veeam/replica/replica/replica/M0-argparse.py
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/replica/git.pub to /Users/baharspring/veeam/replica/replica/replica/git.pub
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/replica/os_walk_func_unitest.py to /Users/baharspring/veeam/replica/replica/replica/os_walk_func_unitest.py
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/replica/logfile to /Users/baharspring/veeam/replica/replica/replica/logfile
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/replica/synchronize.py to /Users/baharspring/veeam/replica/replica/replica/synchronize.py
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/replica/test3.py to /Users/baharspring/veeam/replica/replica/replica/test3.py
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/replica/log to /Users/baharspring/veeam/replica/replica/replica/log
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/replica/make_nest_directories.py to /Users/baharspring/veeam/replica/replica/replica/make_nest_directories.py
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/replica/algoritm.rtf to /Users/baharspring/veeam/replica/replica/replica/algoritm.rtf
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/replica/Internal_Development_in_QA_(SDET)_Team_tesk_task.pdf to /Users/baharspring/veeam/replica/replica/replica/Internal_Development_in_QA_(SDET)_Team_tesk_task.pdf
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/replica/git to /Users/baharspring/veeam/replica/replica/replica/git
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/replica/parent1
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/replica/parent1/common_directory_name
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/replica/replica0
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/replica/replica0/subdirectory11
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/replica/replica0/subdirectory11/test11.txt to /Users/baharspring/veeam/replica/replica/replica/replica0/subdirectory11/test11.txt
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/replica/source
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/replica/source/subdirectory11
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/replica/source/subdirectory11/test11.txt to /Users/baharspring/veeam/replica/replica/replica/source/subdirectory11/test11.txt
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/replica/source/file0
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/replica/parent2
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/replica/parent2/common_directory_name
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/config to /Users/baharspring/veeam/replica/replica/.git/config
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/HEAD to /Users/baharspring/veeam/replica/replica/.git/HEAD
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/description to /Users/baharspring/veeam/replica/replica/.git/description
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/index to /Users/baharspring/veeam/replica/replica/.git/index
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/COMMIT_EDITMSG to /Users/baharspring/veeam/replica/replica/.git/COMMIT_EDITMSG
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/0d
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/0d/5027c0e387de5ae267111ae87f76bd9897e4b4 to /Users/baharspring/veeam/replica/replica/.git/objects/0d/5027c0e387de5ae267111ae87f76bd9897e4b4
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/6a
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/6a/c1d605c41b6b2b5f5110a0defcedbb8a15eb83 to /Users/baharspring/veeam/replica/replica/.git/objects/6a/c1d605c41b6b2b5f5110a0defcedbb8a15eb83
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/3c
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/3c/67ce5cd08a27595729a72703b9bdf181e82173 to /Users/baharspring/veeam/replica/replica/.git/objects/3c/67ce5cd08a27595729a72703b9bdf181e82173
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/93
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/93/62dd587d0ffe14364b662198538b347739104c to /Users/baharspring/veeam/replica/replica/.git/objects/93/62dd587d0ffe14364b662198538b347739104c
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/93/24473eccf181cc2240d8dd1eb199e9a4df4649 to /Users/baharspring/veeam/replica/replica/.git/objects/93/24473eccf181cc2240d8dd1eb199e9a4df4649
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/94
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/94/cd8468fee42bc7a15b8dc060b333eebff9b582 to /Users/baharspring/veeam/replica/replica/.git/objects/94/cd8468fee42bc7a15b8dc060b333eebff9b582
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/94/2dab98f0c9cd9794d672ffb1f2452647c5021a to /Users/baharspring/veeam/replica/replica/.git/objects/94/2dab98f0c9cd9794d672ffb1f2452647c5021a
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/0e
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/0e/938d1c5ca3ce1a0e051802ee90eeafaf93610d to /Users/baharspring/veeam/replica/replica/.git/objects/0e/938d1c5ca3ce1a0e051802ee90eeafaf93610d
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/5a
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/5a/31bfaa68b73ce0dc92fd36d1644c87fbcc87e3 to /Users/baharspring/veeam/replica/replica/.git/objects/5a/31bfaa68b73ce0dc92fd36d1644c87fbcc87e3
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/a3
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/a3/9aeefc22bdd2d37d7f4d1b764afffa08b60f37 to /Users/baharspring/veeam/replica/replica/.git/objects/a3/9aeefc22bdd2d37d7f4d1b764afffa08b60f37
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/bc
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/bc/a76208da2c2b71a75211cb09d0ac7d23efef0b to /Users/baharspring/veeam/replica/replica/.git/objects/bc/a76208da2c2b71a75211cb09d0ac7d23efef0b
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/bc/2f997f6e9a302737197f121830054aa2ecc7f0 to /Users/baharspring/veeam/replica/replica/.git/objects/bc/2f997f6e9a302737197f121830054aa2ecc7f0
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/bc/15b8a26263cc267047872389618422dd71e0f4 to /Users/baharspring/veeam/replica/replica/.git/objects/bc/15b8a26263cc267047872389618422dd71e0f4
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/f3
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/f3/0ed4a6bf0e9678beb7a2d1d408a94ec23389b6 to /Users/baharspring/veeam/replica/replica/.git/objects/f3/0ed4a6bf0e9678beb7a2d1d408a94ec23389b6
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/c7
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/c7/f0ab83495cda062c9404e4ebc395b7dedbd4d9 to /Users/baharspring/veeam/replica/replica/.git/objects/c7/f0ab83495cda062c9404e4ebc395b7dedbd4d9
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/c7/894a1ab81bf7d9a51e4c551e16184e0b6ab34b to /Users/baharspring/veeam/replica/replica/.git/objects/c7/894a1ab81bf7d9a51e4c551e16184e0b6ab34b
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/c0
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/c0/65fff1706eb519e7521de1a94d6f1c9e67bce6 to /Users/baharspring/veeam/replica/replica/.git/objects/c0/65fff1706eb519e7521de1a94d6f1c9e67bce6
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/fd
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/fd/de06b0651c6f5325d345ec00554d67e6cbbb8e to /Users/baharspring/veeam/replica/replica/.git/objects/fd/de06b0651c6f5325d345ec00554d67e6cbbb8e
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/ca
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/ca/ad3047536fac44c88f240d5e634db9a6fc06f9 to /Users/baharspring/veeam/replica/replica/.git/objects/ca/ad3047536fac44c88f240d5e634db9a6fc06f9
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/ec
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/ec/d8ad4c5a510626407f7877662bf37874b60f82 to /Users/baharspring/veeam/replica/replica/.git/objects/ec/d8ad4c5a510626407f7877662bf37874b60f82
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/4b
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/4b/503880d227bd69f0c7d588a89da46a79ee634f to /Users/baharspring/veeam/replica/replica/.git/objects/4b/503880d227bd69f0c7d588a89da46a79ee634f
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/pack
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/11
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/11/f17e8c6af6b965bf5878483cc233e1be0bd1aa to /Users/baharspring/veeam/replica/replica/.git/objects/11/f17e8c6af6b965bf5878483cc233e1be0bd1aa
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/29
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/29/1a87e4b38c4af4cf88ba7d606c08d03ebff6fe to /Users/baharspring/veeam/replica/replica/.git/objects/29/1a87e4b38c4af4cf88ba7d606c08d03ebff6fe
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/29/450d8af9ac7c10f381156787777477eae502a5 to /Users/baharspring/veeam/replica/replica/.git/objects/29/450d8af9ac7c10f381156787777477eae502a5
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/16
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/16/b89bb106b8a57aedf4d3f71d8f56e0a22b89f2 to /Users/baharspring/veeam/replica/replica/.git/objects/16/b89bb106b8a57aedf4d3f71d8f56e0a22b89f2
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/16/d44e6eef34b97d591b0292aff9da0c6cc30231 to /Users/baharspring/veeam/replica/replica/.git/objects/16/d44e6eef34b97d591b0292aff9da0c6cc30231
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/28
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/28/5b332b5c313a23219c1e8ddf5bcbd2d1dc73c3 to /Users/baharspring/veeam/replica/replica/.git/objects/28/5b332b5c313a23219c1e8ddf5bcbd2d1dc73c3
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/8a
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/8a/98d107fe834b135a8886c137fba9fa98d3aede to /Users/baharspring/veeam/replica/replica/.git/objects/8a/98d107fe834b135a8886c137fba9fa98d3aede
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/75
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/75/0056911d45852895dee9d86177efc7ae2ae8c5 to /Users/baharspring/veeam/replica/replica/.git/objects/75/0056911d45852895dee9d86177efc7ae2ae8c5
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/38
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/38/bc7219949f0dc36ce8154e4e5c46b36b929813 to /Users/baharspring/veeam/replica/replica/.git/objects/38/bc7219949f0dc36ce8154e4e5c46b36b929813
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/info
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/91
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/91/a8a89933e688cf76ff0065295a5610ed257396 to /Users/baharspring/veeam/replica/replica/.git/objects/91/a8a89933e688cf76ff0065295a5610ed257396
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/62
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/62/3e3fce10e89d8b061bf66dd7cd9624cde9e052 to /Users/baharspring/veeam/replica/replica/.git/objects/62/3e3fce10e89d8b061bf66dd7cd9624cde9e052
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/53
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/53/22626e61196a7755c55b88de2955c6b7e069cf to /Users/baharspring/veeam/replica/replica/.git/objects/53/22626e61196a7755c55b88de2955c6b7e069cf
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/6c
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/6c/74b250b0e3eda6f3874de70d85acdc28019ce5 to /Users/baharspring/veeam/replica/replica/.git/objects/6c/74b250b0e3eda6f3874de70d85acdc28019ce5
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/99
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/99/cacaa0807e04602bc841e764c2d71518515a64 to /Users/baharspring/veeam/replica/replica/.git/objects/99/cacaa0807e04602bc841e764c2d71518515a64
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/64
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/64/20d9aa6ed709ccae5c8338195b378cf50829f5 to /Users/baharspring/veeam/replica/replica/.git/objects/64/20d9aa6ed709ccae5c8338195b378cf50829f5
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/ef
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/ef/b34ad470da8df704d8d6cda5afececc9961a39 to /Users/baharspring/veeam/replica/replica/.git/objects/ef/b34ad470da8df704d8d6cda5afececc9961a39
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/c3
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/c3/27ffff3d1adc709ad7843f05f877cd2fff5665 to /Users/baharspring/veeam/replica/replica/.git/objects/c3/27ffff3d1adc709ad7843f05f877cd2fff5665
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/c3/825fc5cfbdc5344690b61e8ada66cd9655e1f0 to /Users/baharspring/veeam/replica/replica/.git/objects/c3/825fc5cfbdc5344690b61e8ada66cd9655e1f0
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/c2
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/c2/50eefc13e7b98642d537ec2737b2fb8ed1de65 to /Users/baharspring/veeam/replica/replica/.git/objects/c2/50eefc13e7b98642d537ec2737b2fb8ed1de65
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/c2/c5d7379de6f9f49d26716259205884306ab0c6 to /Users/baharspring/veeam/replica/replica/.git/objects/c2/c5d7379de6f9f49d26716259205884306ab0c6
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/f1
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/f1/840223bae0c0f1484260d1dc321954994a4396 to /Users/baharspring/veeam/replica/replica/.git/objects/f1/840223bae0c0f1484260d1dc321954994a4396
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/e7
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/e7/74ecd94184ef7cce89c61d8985ee385c20c6a0 to /Users/baharspring/veeam/replica/replica/.git/objects/e7/74ecd94184ef7cce89c61d8985ee385c20c6a0
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/e0
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/e0/b61f9df8ce2c11afb207ba050aa8e1f73760fe to /Users/baharspring/veeam/replica/replica/.git/objects/e0/b61f9df8ce2c11afb207ba050aa8e1f73760fe
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/79
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/79/fd2634855e4556c4ebaf6abbfcf4d423d2e74a to /Users/baharspring/veeam/replica/replica/.git/objects/79/fd2634855e4556c4ebaf6abbfcf4d423d2e74a
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/48
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/48/86e73fe57b2dfa5203bb7699f0e9e97d51153c to /Users/baharspring/veeam/replica/replica/.git/objects/48/86e73fe57b2dfa5203bb7699f0e9e97d51153c
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/48/83c42a35518207525366e0f218d27bcfec9003 to /Users/baharspring/veeam/replica/replica/.git/objects/48/83c42a35518207525366e0f218d27bcfec9003
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/1e
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/1e/b8888599b4e9dd39d1fb88009dbca8b0771f59 to /Users/baharspring/veeam/replica/replica/.git/objects/1e/b8888599b4e9dd39d1fb88009dbca8b0771f59
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/24
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/24/e09061561ef32b4226ea7488955418aa96941d to /Users/baharspring/veeam/replica/replica/.git/objects/24/e09061561ef32b4226ea7488955418aa96941d
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/23
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/23/57395607d3275c8200022552c822c72897177b to /Users/baharspring/veeam/replica/replica/.git/objects/23/57395607d3275c8200022552c822c72897177b
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/23/de56c0af2c5e1e3c8ff444f874801018a5f5ba to /Users/baharspring/veeam/replica/replica/.git/objects/23/de56c0af2c5e1e3c8ff444f874801018a5f5ba
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/7f
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/7f/d0d885cb31f815904d190d1f46b6dff1be7fb9 to /Users/baharspring/veeam/replica/replica/.git/objects/7f/d0d885cb31f815904d190d1f46b6dff1be7fb9
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/objects/7a
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/objects/7a/cb35a683aaf1fa444af44c2ea2d838267ce1d8 to /Users/baharspring/veeam/replica/replica/.git/objects/7a/cb35a683aaf1fa444af44c2ea2d838267ce1d8
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/info
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/info/exclude to /Users/baharspring/veeam/replica/replica/.git/info/exclude
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/logs
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/logs/HEAD to /Users/baharspring/veeam/replica/replica/.git/logs/HEAD
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/logs/refs
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/logs/refs/heads
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/logs/refs/heads/main to /Users/baharspring/veeam/replica/replica/.git/logs/refs/heads/main
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/logs/refs/remotes
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/logs/refs/remotes/origin
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/logs/refs/remotes/origin/main to /Users/baharspring/veeam/replica/replica/.git/logs/refs/remotes/origin/main
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/hooks
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/hooks/commit-msg.sample to /Users/baharspring/veeam/replica/replica/.git/hooks/commit-msg.sample
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/hooks/pre-rebase.sample to /Users/baharspring/veeam/replica/replica/.git/hooks/pre-rebase.sample
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/hooks/pre-commit.sample to /Users/baharspring/veeam/replica/replica/.git/hooks/pre-commit.sample
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/hooks/applypatch-msg.sample to /Users/baharspring/veeam/replica/replica/.git/hooks/applypatch-msg.sample
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/hooks/fsmonitor-watchman.sample to /Users/baharspring/veeam/replica/replica/.git/hooks/fsmonitor-watchman.sample
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/hooks/pre-receive.sample to /Users/baharspring/veeam/replica/replica/.git/hooks/pre-receive.sample
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/hooks/prepare-commit-msg.sample to /Users/baharspring/veeam/replica/replica/.git/hooks/prepare-commit-msg.sample
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/hooks/post-update.sample to /Users/baharspring/veeam/replica/replica/.git/hooks/post-update.sample
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/hooks/pre-merge-commit.sample to /Users/baharspring/veeam/replica/replica/.git/hooks/pre-merge-commit.sample
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/hooks/pre-applypatch.sample to /Users/baharspring/veeam/replica/replica/.git/hooks/pre-applypatch.sample
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/hooks/pre-push.sample to /Users/baharspring/veeam/replica/replica/.git/hooks/pre-push.sample
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/hooks/update.sample to /Users/baharspring/veeam/replica/replica/.git/hooks/update.sample
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/hooks/push-to-checkout.sample to /Users/baharspring/veeam/replica/replica/.git/hooks/push-to-checkout.sample
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/refs
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/refs/heads
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/refs/heads/main to /Users/baharspring/veeam/replica/replica/.git/refs/heads/main
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/refs/tags
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/refs/remotes
+Mon Jul  8 09:13:36 2024 - Created directory: /Users/baharspring/veeam/replica/replica/.git/refs/remotes/origin
+Mon Jul  8 09:13:36 2024 - Copied file: /Users/baharspring/veeam/replica/.git/refs/remotes/origin/main to /Users/baharspring/veeam/replica/replica/.git/refs/remotes/origin/main
+Mon Jul  8 09:14:32 2024 - Created directory: /Users/baharspring/veeam/replica/subdirectory11
+Mon Jul  8 09:14:32 2024 - Copied file: /Users/baharspring/veeam/source/subdirectory11/test11.txt to /Users/baharspring/veeam/replica/subdirectory11/test11.txt
+Mon Jul  8 09:14:32 2024 - Created directory: /Users/baharspring/veeam/replica/file0
+Mon Jul  8 09:14:32 2024 - Removed file: /Users/baharspring/veeam/replica/0_os_stat_test.py
+Mon Jul  8 09:14:32 2024 - Removed file: /Users/baharspring/veeam/replica/logfiletest5.log
+Mon Jul  8 09:14:32 2024 - Removed file: /Users/baharspring/veeam/replica/save_piece.py
+Mon Jul  8 09:14:32 2024 - Removed file: /Users/baharspring/veeam/replica/1_filecmp_lib_test.py
+Mon Jul  8 09:14:32 2024 - Removed file: /Users/baharspring/veeam/replica/logfiletest1.log
+Mon Jul  8 09:14:32 2024 - Removed file: /Users/baharspring/veeam/replica/0_Synchronization.py
+Mon Jul  8 09:14:32 2024 - Removed file: /Users/baharspring/veeam/replica/test4.py
+Mon Jul  8 09:14:32 2024 - Removed file: /Users/baharspring/veeam/replica/get_structure_folder.py
+Mon Jul  8 09:14:32 2024 - Removed file: /Users/baharspring/veeam/replica/make_exact_direc.py
+Mon Jul  8 09:14:32 2024 - Removed file: /Users/baharspring/veeam/replica/logfiletest0
+Mon Jul  8 09:14:32 2024 - Removed file: /Users/baharspring/veeam/replica/test0.py
+Mon Jul  8 09:14:32 2024 - Removed file: /Users/baharspring/veeam/replica/filecmp_lib_test.py
+Mon Jul  8 09:14:32 2024 - Removed file: /Users/baharspring/veeam/replica/test1.py
+Mon Jul  8 09:14:32 2024 - Removed file: /Users/baharspring/veeam/replica/Bachelorarbeit.pdf
+Mon Jul  8 09:14:32 2024 - Removed file: /Users/baharspring/veeam/replica/test5.py
+Mon Jul  8 09:14:32 2024 - Removed file: /Users/baharspring/veeam/replica/test.py
+Mon Jul  8 09:14:32 2024 - Removed file: /Users/baharspring/veeam/replica/log_0_Synchronization.py
+Mon Jul  8 09:14:32 2024 - Removed file: /Users/baharspring/veeam/replica/logfile5
+Mon Jul  8 09:14:32 2024 - Removed file: /Users/baharspring/veeam/replica/M0-argparse.py
+Mon Jul  8 09:14:32 2024 - Removed file: /Users/baharspring/veeam/replica/git.pub
+Mon Jul  8 09:14:32 2024 - Removed file: /Users/baharspring/veeam/replica/os_walk_func_unitest.py
+Mon Jul  8 09:14:32 2024 - Removed file: /Users/baharspring/veeam/replica/logfile
+Mon Jul  8 09:14:32 2024 - Removed file: /Users/baharspring/veeam/replica/synchronize.py
+Mon Jul  8 09:14:32 2024 - Removed file: /Users/baharspring/veeam/replica/test3.py
+Mon Jul  8 09:14:32 2024 - Removed file: /Users/baharspring/veeam/replica/log
+Mon Jul  8 09:14:32 2024 - Removed file: /Users/baharspring/veeam/replica/make_nest_directories.py
+Mon Jul  8 09:14:32 2024 - Removed file: /Users/baharspring/veeam/replica/algoritm.rtf
+Mon Jul  8 09:14:32 2024 - Removed file: /Users/baharspring/veeam/replica/Internal_Development_in_QA_(SDET)_Team_tesk_task.pdf
+Mon Jul  8 09:14:32 2024 - Removed file: /Users/baharspring/veeam/replica/git
+Mon Jul  8 09:14:32 2024 - Removed directory: /Users/baharspring/veeam/replica/parent1
+Mon Jul  8 09:14:32 2024 - Removed directory: /Users/baharspring/veeam/replica/replica0
+Mon Jul  8 09:14:32 2024 - Removed directory: /Users/baharspring/veeam/replica/source
+Mon Jul  8 09:14:32 2024 - Removed directory: /Users/baharspring/veeam/replica/parent2
+Mon Jul  8 09:14:32 2024 - Removed directory: /Users/baharspring/veeam/replica/replica
+Mon Jul  8 09:14:32 2024 - Removed directory: /Users/baharspring/veeam/replica/.git

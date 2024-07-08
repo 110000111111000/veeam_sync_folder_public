@@ -19,6 +19,8 @@ def calculate_md5(file_path):
 
 # Function to check read permissions for a directory and its subdirectories
 def check_read_permission(directory):
+    subdirectories = []
+    files = []
     """Check read permission for a directory and its subdirectories."""
     for root, _, _ in os.walk(directory):
         if not os.access(root, os.R_OK):
