@@ -224,3 +224,8 @@ Mon Jul  8 11:16:56 2024 - Created directory: /Users/baharspring/veeam/replica/s
 Mon Jul  8 11:16:56 2024 - Copied file: /Users/baharspring/veeam/source/subdirectory11/test11.txt to /Users/baharspring/veeam/replica/subdirectory11/test11.txt
 Mon Jul  8 11:17:36 2024 - Created directory: /Users/baharspring/veeam/replica/subdirectory11
 Mon Jul  8 11:17:36 2024 - Copied file: /Users/baharspring/veeam/source/subdirectory11/test11.txt to /Users/baharspring/veeam/replica/subdirectory11/test11.txt
+Mon Jul  8 12:04:46 2024 - Created directory: /Users/baharspring/veeam/replica/file1
+Mon Jul  8 12:04:46 2024 - Copied file: /Users/baharspring/veeam/source/file1/text2.txt to /Users/baharspring/veeam/replica/file1/text2.txt
+Mon Jul  8 12:06:50 2024 - Copied file: /Users/baharspring/veeam/source/README.md to /Users/baharspring/veeam/replica/./README.md
+Mon Jul  8 12:07:40 2024 - Copied file: /Users/baharspring/veeam/source/subdirectory11/test11.txt to /Users/baharspring/veeam/replica/subdirectory11/test11.txt
+Mon Jul  8 12:09:23 2024 - Removed directory: /Users/baharspring/veeam/replica/hastam
