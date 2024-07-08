@@ -220,3 +220,7 @@ Mon Jul  8 09:14:32 2024 - Removed directory: /Users/baharspring/veeam/replica/s
 Mon Jul  8 09:14:32 2024 - Removed directory: /Users/baharspring/veeam/replica/parent2
 Mon Jul  8 09:14:32 2024 - Removed directory: /Users/baharspring/veeam/replica/replica
 Mon Jul  8 09:14:32 2024 - Removed directory: /Users/baharspring/veeam/replica/.git
+Mon Jul  8 11:16:56 2024 - Created directory: /Users/baharspring/veeam/replica/subdirectory11
+Mon Jul  8 11:16:56 2024 - Copied file: /Users/baharspring/veeam/source/subdirectory11/test11.txt to /Users/baharspring/veeam/replica/subdirectory11/test11.txt
+Mon Jul  8 11:17:36 2024 - Created directory: /Users/baharspring/veeam/replica/subdirectory11
+Mon Jul  8 11:17:36 2024 - Copied file: /Users/baharspring/veeam/source/subdirectory11/test11.txt to /Users/baharspring/veeam/replica/subdirectory11/test11.txt

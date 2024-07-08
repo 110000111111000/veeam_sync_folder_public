@@ -1,10 +1,11 @@
 import os
 import math
 
+source = '/Users/baharspring/veeam/source' 
 def make_directory():
 	working_directory = os.getcwd()
-	if not os.path.exists('source1'):
-		os.makedirs('source1',source1')
+	if not os.path.exists(source):
+		os.makedirs(source)
 	if not os.path.exists('source/subdirectory11'):
 		os.makedirs('source/subdirectory11')
 	directory_path_text = '/Users/baharspring/veeam/source/subdirectory11'

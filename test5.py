@@ -17,36 +17,61 @@ def calculate_md5(file_path):
         hasher.update(buf)
     return hasher.hexdigest()
 
-# Function to check read permissions for a directory and its subdirectories
-def check_read_permission(directory):
+# Function to check (read, write, execute) permissions for a directory and its subdirectories
+def check_permission(directory):
+    """Check  RWX (read, write, execute) permissions for a directory and its subdirectories."""
     subdirectories = []
     files = []
-    """Check read permission for a directory and its subdirectories."""
-    for root, _, _ in os.walk(directory):
-        if not os.access(root, os.R_OK):
-            return False, root
-    return True, None
 
-# Function to check all permissions (read, write, execute) for a directory and its subdirectories
-def check_all_permissions(directory):
-    """Check read, write, and execute permissions for a directory and its subdirectories."""
-    for root, _, _ in os.walk(directory):
+    for root, dirs, files_list in os.walk(directory):
+        # Check root permissions
         if not (os.access(root, os.R_OK) and os.access(root, os.W_OK) and os.access(root, os.X_OK)):
             return False, root
-    return True, None
+
+        for name in dirs:
+            subdirectory = os.path.join(root, name)
+            subdirectories.append(subdirectory)
+            read_permission = os.access(subdirectory, os.R_OK)
+            write_permission = os.access(subdirectory, os.W_OK)
+            execute_permission = os.access(subdirectory, os.X_OK)
+            #print(f'Subdirectory: {subdirectory}, Readable: {read_permission}, Writable: {write_permission}, Executable: {execute_permission}')
+            if not (os.access(subdirectory, os.R_OK) and os.access(subdirectory, os.W_OK) and os.access(subdirectory, os.X_OK)):
+                return False, subdirectory
+
+        for name in files_list:
+            file_path = os.path.join(root, name)
+            files.append(file_path)
+            read_permission = os.access(file_path, os.R_OK)
+            write_permission = os.access(file_path, os.W_OK)
+            execute_permission = os.access(file_path, os.X_OK)
+            #print(f'File: {file_path}, Readable: {read_permission}, Writable: {write_permission}, Executable: {execute_permission}')
+            if not (os.access(file_path, os.R_OK) and os.access(file_path, os.W_OK) and os.access(file_path, os.X_OK)):
+                return False, file_path
+               
+    return True, (subdirectories, files)
 
 # Function to synchronize directories
 def sync_folders(source_folder, replica_folder, log_file, sync_interval):
+    # Check if source folder exists
+    if not os.path.exists(source_folder):
+        logging.error(f"Source folder '{source_folder}' does not exist.")
+        return
+    # Check if replica folder exists
+    if not os.path.exists(replica_folder):
+        logging.info(f"Replica folder '{replica_folder}' does not exist. Creating replica ...")
+        os.makedirs(replica_folder)
+        logging.info(f"Replica folder '{replica_folder}' created.")
+   
     retry_delay = 5  # Delay before retrying in case of an error (in seconds)
     while True:
         try:
             # Check permissions
-            source_permission, source_path = check_read_permission(source_folder)
+            source_permission, source_path = check_permission(source_folder)
             if not source_permission:
                 logging.error(f"Permission denied: Cannot read from source folder or its subdirectory '{source_path}'")
                 return
 
-            replica_permission, replica_path = check_all_permissions(replica_folder)
+            replica_permission, replica_path = check_permission(replica_folder)
             if not replica_permission:
                 logging.error(f"Permission denied: Insufficient permissions for replica folder or its subdirectory '{replica_path}'")
                 return
@@ -97,10 +122,10 @@ def sync_folders(source_folder, replica_folder, log_file, sync_interval):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Synchronize directories and log synchronization details.')
-    parser.add_argument('source', type=str, help='Path to the source directory')
-    parser.add_argument('replica', type=str, help='Path to the replica directory')
+    parser.add_argument('source', type=str, help='Path to the source directory exp:(/Users/baharspring/veeam/source)')
+    parser.add_argument('replica', type=str, help='Path to the replica directory exp:(/Users/baharspring/veeam/replica)')
     parser.add_argument('interval', type=int, help='Synchronization interval in seconds')
-    parser.add_argument('--log', type=str, default='sync_log.txt', help='Path to the log file (default: sync_log.txt)')
+    parser.add_argument('--log', type=str, default='sync_log.txt', help='Path to the log file (default: sync_log.txt),EXP how to execute the [sync_folders.py] =  python3 sync_folders.py /Users/baharspring/veeam/source /Users/baharspring/veeam/replica 20 --log /Users/baharspring/veeam/logfile')
     
     args = parser.parse_args()
 
