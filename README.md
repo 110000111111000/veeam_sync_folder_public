@@ -1,4 +1,4 @@
-Sync_Folders
+Sync_Folders**bold text**
 
 There is a program that performs one way synchronization source ----> replica
 
