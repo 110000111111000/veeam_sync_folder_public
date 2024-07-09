@@ -14,6 +14,7 @@ This program performs one-way synchronization from source ----> replica.
 **Usage**
 
 #Display help message
+
 python3 sync_folders.py -h
 
 #Run synchronization
